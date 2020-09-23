@@ -1,0 +1,10 @@
+Hello And Welcome Too Text Pad Thanks For Downloading the Source Its Probably Not too great But hey !!
+Any way It has Word wrap , Clipboard Options , Can Launch Another Editor If The File That Is Being attempted too be opened is too large and it has an Options dialog also It can Be Used on the command Line and can Be the Default text Viewer for (*.TXT) Files...... If you like it Vote for me Otherwise You dont have too .
+
+Thanks; 
+Developer :  Jason - simeone 
+age : 15 
+Hobbys : VB 5
+
+BUGZ WERE FIXED IN THIS VERSION AND CODE WAS UPDATED !!!!!
+
